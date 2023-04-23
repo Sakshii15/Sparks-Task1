@@ -6,5 +6,6 @@ The Sparks Foundation Web Development Internship Project : Basic Banking System 
 👉CSS<br>
 👉JAVASCRIPT<br>
 👉Bootstrap<br>
+
 <h1><b>Flow of the website</h1><br></b>
 Home Page > View all Customers > Select and View one Customer > Transfer Money > Select customer to transfer to > View all Customers
